@@ -1775,39 +1775,47 @@ body {
 .cid-qH4dPbWHru .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qHf2gqcnRU {
-  padding-top: 90px;
+.cid-qIg6AP9XpB {
+  padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #181818;
 }
-.cid-qHf2gqcnRU h3 {
-  text-align: center;
-}
-.cid-qHf2gqcnRU .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-qHf2gqcnRU .mbr-content-text {
-  color: #767676;
-}
-.cid-qHf2gqcnRU .panel-item {
-  background: #ffffff;
-}
-.cid-qHf2gqcnRU .card {
+.cid-qIg6AP9XpB .media-content {
   word-wrap: break-word;
 }
-.cid-qHf2gqcnRU .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
+.cid-qIg6AP9XpB .form-inline {
+  display: block;
 }
-.cid-qHf2gqcnRU .mbr-section-title {
-  color: #149dcc;
+.cid-qIg6AP9XpB .form-inline .form-group {
+  padding: 0.5rem;
+  display: inline-block;
 }
-.cid-qHf2gqcnRU H3 {
-  color: #149dcc;
+.cid-qIg6AP9XpB .form-inline .buttons-wrap {
+  display: inline-block;
 }
-.cid-qHf2gqcnRU H4 {
-  color: #767676;
+.cid-qIg6AP9XpB .form-inline input {
+  text-align: center;
+}
+.cid-qIg6AP9XpB .mbr-figure {
+  padding-bottom: 2rem;
+}
+@media (min-width: 992px) {
+  .cid-qIg6AP9XpB .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qIg6AP9XpB .mbr-text {
+    text-align: center;
+  }
+  .cid-qIg6AP9XpB .form-inline {
+    text-align: center;
+  }
+}
+@media (max-width: 768px) {
+  .cid-qIg6AP9XpB .form-inline input {
+    font-size: .85rem;
+  }
 }
 .cid-qH4dPddEQm {
   padding-top: 15px;
