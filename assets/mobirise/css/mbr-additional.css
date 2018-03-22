@@ -1379,21 +1379,6 @@ body {
 .cid-qH4dPcGXb5 .mbr-section-btn {
   color: #0f7699;
 }
-.cid-qI6LsQrCPg {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #149dcc, #149dcc);
-}
-@media (min-width: 992px) {
-  .cid-qI6LsQrCPg .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qI6LsQrCPg .mbr-figure {
-    padding-top: 3rem;
-  }
-}
 .cid-qH4dPbWHru .navbar {
   padding: .5rem 0;
   background: #149dcc;
