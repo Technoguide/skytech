@@ -1115,11 +1115,10 @@ section.lazy-placeholder:after {
 }
 .cid-rUyHenNMCd {
   background: #232323;
-  padding-top: 60px;
-  padding-bottom: 60px;
 }
 .cid-rUyHenNMCd .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rUyHenNMCd .video-block {
