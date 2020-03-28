@@ -1113,6 +1113,19 @@ section.lazy-placeholder:after {
 .cid-rUyxpoAneW {
   background-image: url("../../../assets/images/background4.jpg");
 }
+.cid-rUyHenNMCd {
+  background: #232323;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rUyHenNMCd .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rUyHenNMCd .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rUyxETFQLH {
   padding-top: 60px;
   padding-bottom: 60px;
