@@ -13,18 +13,18 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
+        "display1Font": "Montserrat",
         "display1Size": 4.25,
-        "display2Font": "Rubik",
+        "display2Font": "Montserrat",
         "display2Size": 3,
-        "display5Font": "Rubik",
+        "display5Font": "Montserrat",
         "display5Size": 1.5,
-        "display7Font": "Rubik",
+        "display7Font": "Montserrat",
         "display7Size": 1,
-        "display4Font": "Rubik",
+        "display4Font": "Montserrat",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
     },
@@ -35,6 +35,11 @@
         "css": "'Rubik', sans-serif",
         "name": "Rubik",
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
+      },
+      {
+        "css": "'Montserrat', sans-serif",
+        "name": "Montserrat",
+        "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
     "uniqCompNum": 12,
