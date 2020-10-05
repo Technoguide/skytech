@@ -1242,8 +1242,9 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676",
-              "font-weight": "300"
+              "color": "#cc2952",
+              "font-weight": "300",
+              "text-align": "center"
             },
             ".number-wrap": {
               "color": "@labelsColor",

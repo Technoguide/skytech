@@ -1680,8 +1680,9 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-scv89XbKIQ .mbr-section-subtitle {
-  color: #767676;
+  color: #cc2952;
   font-weight: 300;
+  text-align: center;
 }
 .cid-scv89XbKIQ .number-wrap {
   color: #4f4943;
